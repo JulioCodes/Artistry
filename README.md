@@ -4,4 +4,4 @@
 - Utilize grid to create fluid layouts
 - Utilize flexbox to align elements
 
-![Project humbnail](./thumbnail.png)
+![Project humbnail](./thumbnail.jpg)

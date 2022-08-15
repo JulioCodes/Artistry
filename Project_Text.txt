@@ -1,0 +1,26 @@
+--------------------------------------
+Custom properties
+--------------------------------------
+
+:root {
+    --light-clr: hsl(0, 0%, 100%);
+    --dark-clr: hsl(223, 12%, 11%);
+    --accent-clr: hsl(52, 100%, 97%);
+    --pink-clr: hsl(340, 96%, 62%);
+    --yellow-clr: hsl(50, 100%, 72%);
+    --nav-height: 1.8rem;
+    --number-of-columns: 4;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 800;
+}
+
+--------------------------------------
+General text
+--------------------------------------
+
+H1 - Explore Legendary Art and NFT's.
+
+P - Discover, collect, and sell extraordinary NFTs through our awesome platform. Express yourself by
+    your artwork though us.
